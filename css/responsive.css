@@ -374,6 +374,15 @@ footer {
   padding: 10px 0 !important;
 }
 
+
+.about_left::after {
+  display: none !important;
+}
+
+.about_left_sape {
+  display: none !important;
+}
+
  }
 
 
