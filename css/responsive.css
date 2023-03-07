@@ -1,0 +1,984 @@
+@media (max-width: 575.98px) { 
+    #navbar-example {
+        background: #353535;
+       }
+       .navbar-nav {
+        text-align: center;
+       }
+
+
+.navbar-nav {
+    text-align: center;
+  }
+  .h1, h1 {
+	font-size: 39px !important;
+}
+  
+  .slide_item {
+    padding: 232px 0 !important;
+  }
+  
+  .banner_slide {
+	clip-path: polygon(0px 0px, 100% 0px, 100% 85%, 0% 96.17%) !important;
+}
+  
+  .banner_text {
+    top: 100px !important;
+  }
+  
+  .banner_text h2 {
+    font-style: 22px !important;
+  }
+  
+  .banner_text h1 {
+    font-style: 32px !important;
+    padding-bottom: 1px !important;
+  }
+  
+  .banner_text p {
+    padding-bottom: 20px !important;
+    font-size: 14px !important;
+  }
+  
+  .banner_button a {
+    padding: 15px !important;
+    font-size: 14px !important;
+  }
+  
+  .banner_button a:last-child {
+    padding: 15px 28px !important;
+  }
+  
+  .about_header h2 {
+    font-size: 25px !important;
+    padding-bottom: 0px !important;
+  }
+  
+  #about p {
+    font-size: 12px !important;
+  }
+  
+  .about_top {
+    margin-bottom: 20px !important;
+  }
+  
+  .about_top, .about_left, .about_right, .about_bottom {
+    padding: 15px 12px !important;
+  }
+  
+  .about_top::after {
+    display: none !important;
+  }
+  
+  .about_image {
+    display: none !important;
+  }
+  
+  .about_right::after {
+    display: none !important;
+  }
+  
+  .about_bottom {
+    margin-top: 20px !important;
+  }
+  
+  .about_bottom::after {
+    display: none !important;
+  }
+  
+  
+  .fa-arrow-left {
+    display: none !important;
+  }
+  
+  
+  .fa-arrow-right {
+    display: none !important;
+  }
+  .about_top_sape {
+    display: none !important;
+  }
+  .about_left {
+    text-align: center !important;
+  }
+  .about_left {
+    margin-bottom: 20px !important;
+  }
+  .about_right {
+    text-align: center !important;
+  }
+  .about_right_sape {
+    display: none !important;
+  }
+  .about_bottom_sape {
+    display: none !important;
+  }
+
+#port {
+    clip-path: polygon(0px 1%, 100% 0px, 100% 99%, 0% 100%) !important;
+    padding: 66px 0 !important;
+  }
+  
+  .port_header h2 {
+    font-size: 25px !important;
+  }
+  
+  .port_header p {
+    font-size: 12px !important;
+  }
+  
+  .port_header {
+    padding-bottom: 20px !important;
+  }
+  #about {
+    padding-bottom: 20px !important;
+  }
+div.col-6:nth-child(1) > div:nth-child(2) {
+    padding-bottom: 20px !important;
+  }
+  
+i.fa-chevron-up:nth-child(2) {
+    display: none !important; 
+  }
+  .line {
+    width: 0 !important;
+  }
+  
+  #service .slick-center h3 {
+    text-align: center !important;
+    padding-bottom: 30px !important;
+  }
+  
+  #service p {
+    font-size: 12px !important;
+  }
+  
+  .service_text {
+    padding: 20px 16px !important;
+  }
+  
+  .service_header {
+    padding-bottom: 30px !important;
+  }
+  
+  #service {
+    padding: 20px 0 30px 0 !important;
+  }
+  
+  .service_header h2 {
+    font-size: 25px !important;
+  }
+  
+  .service_image {
+    margin-bottom: 30px !important;
+  }
+  
+  .service_slide{
+    text-align: center !important;
+  }
+div.slick-current:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) {
+    text-align: center !important;
+  }
+  
+  
+  i.fa-chevron-down:nth-child(3) {
+    display: none !important;
+  }
+  
+
+#team {
+    clip-path: polygon(0px 2%, 100% 0px, 100% 98%, 0% 100%) !important;
+  }
+  
+
+.tnext {
+    display: none !important;
+  }
+  
+  
+  .line2 {
+    width: 0 !important;
+  }
+  
+  #team {
+    padding: 0px 0 !important;
+  }
+  
+  .team_main {
+    padding: 30px 0 !important;
+  }
+  
+  .team_text {
+    padding: 30px 30px 100px 30px !important;
+  }
+  
+  #team .team_texts p {
+    font-size: 12px !important;
+  }
+  
+  #team .team_texts h4 {
+    font-size: 14px !important;
+    padding-bottom: 10px !important;
+  }
+  
+  #team h3 {
+    font-size: 18px !important;
+  }
+  
+  .price_header h2 {
+    font-size: 25px !important;
+    padding-bottom: 0px !important;
+  }
+  
+  .price_header p {
+    font-size: 12px !important;
+  }
+  
+  .price_header {
+    padding-bottom: 30px !important;
+  }
+  
+  .price_item {
+    padding-bottom: 20px !important;
+  }
+  
+  
+  i.fa-chevron-down:nth-child(2) {
+    display: none !important;
+  }
+  
+  #price {
+    margin-top: 30px !important;
+  }
+
+
+  #client {
+    margin: 20px 0 !important;
+    clip-path: polygon(0px 2%, 100% 0px, 100% 98%, 0% 100%) !important;
+  }
+.client_main {
+  rotate: 0deg !important;
+}
+
+.client_text {
+  rotate: 0deg !important;
+}
+
+.client_item {
+  rotate: 0deg !important;
+  margin-bottom: 20px !important;
+}
+
+#client {
+  padding: 32px 0 !important;
+}
+
+.team_items {
+  margin-bottom: 66px !important;
+}
+
+.team_items h3 {
+  font-size: 15px !important;
+}
+
+.team_items p {
+  font-size: 12px !important;
+}
+
+.teams_text {
+  padding: 10px 0 !important;
+}
+
+.team_header h2 {
+  font-size: 25px !important;
+  padding-bottom: 0px !important;
+}
+
+.team_header p {
+  font-size: 12px !important;
+}
+
+.team_header {
+  padding-bottom: 30px !important;
+}
+
+.brand_item {
+  padding: 10px 0 !important;
+}
+
+
+#teams {
+  margin-bottom: 0px !important;
+}
+
+#brand {
+  padding: 40px 0 !important;
+}
+
+.brand_main {
+  rotate: 0deg;
+}
+
+.brand_item {
+  rotate: 0deg;
+}
+
+.brand_inner {
+  rotate: 0deg;
+}
+
+footer {
+  padding-top: 42px !important;
+}
+
+footer::after {
+  top: 116px !important;
+}
+
+
+footer {
+  margin-top: -30px !important;
+  clip-path: polygon(0px 2.83%, 100% 0px, 100% 100%, 0% 100%) !important;
+}
+
+
+.footer_logo {
+  padding-bottom: 50px !important; 
+}
+
+.footer_item p {
+  font-size: 12px !important;
+}
+.follow > div:nth-child(1) > h3:nth-child(1) {
+  font-size: 15px;
+  margin-bottom: 10px !important;
+}
+.team_icons a {
+  width: 30px !important;
+  height: 30px !important;
+  line-height: 30px !important;
+}
+.follow a {
+	margin: 0 5px 5px 5px !important;
+}
+
+.follow a {
+  font-size: 14px !important;
+}
+
+.client_item span {
+  font-size: 15px !important;
+}
+
+.client_item {
+  padding: 10px 0 !important;
+}
+
+ }
+
+
+
+
+
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+  #navbar-example {
+    background: #353535;
+   }
+   .navbar-nav {
+    text-align: center;
+   }
+
+
+.navbar-nav {
+text-align: center;
+}
+.h1, h1 {
+font-size: 39px !important;
+}
+
+
+.next {
+  right: 10px !important;
+  width: 20px !important;
+  height: 20px !important;
+  line-height: 20px !important;
+  font-size: 15px !important;
+}
+
+.prev {
+  right: 10px !important;
+  width: 20px !important;
+  height: 20px !important;
+  line-height: 20px !important;
+  font-size: 15px !important;
+}
+  
+.about_header h2 {
+  font-size: 25px !important;
+  padding-bottom: 0px !important;
+}
+
+#about p {
+  font-size: 12px !important;
+}
+
+.about_top {
+  margin-bottom: 20px !important;
+}
+
+.about_top, .about_left, .about_right, .about_bottom {
+  padding: 15px 12px !important;
+}
+
+.about_top::after {
+  display: none !important;
+}
+
+.about_image {
+  display: none !important;
+}
+
+.about_right::after {
+  display: none !important;
+}
+
+.about_bottom {
+  margin-top: 20px !important;
+}
+
+.about_bottom::after {
+  display: none !important;
+}
+
+
+.fa-arrow-left {
+  display: none !important;
+}
+
+
+.fa-arrow-right {
+  display: none !important;
+}
+.about_top_sape {
+  display: none !important;
+}
+.about_left {
+  text-align: center !important;
+}
+.about_left {
+  margin-bottom: 20px !important;
+}
+.about_right {
+  text-align: center !important;
+}
+.about_right_sape {
+  display: none !important;
+}
+.about_bottom_sape {
+  display: none !important;
+}
+.about_left_sape {
+  display: none !important;
+}
+.port_header h2 {
+  font-size: 28px !important;
+}
+
+.port_header p {
+  font-size: 12px !important;
+}
+#service p {
+  font-size: 12px !important;
+}
+
+.service_text {
+  padding: 20px 16px !important;
+}
+
+.service_header {
+  padding-bottom: 50px !important;
+}
+
+#service {
+  padding: 20px 0 30px 0 !important;
+}
+
+.service_header h2 {
+  font-size: 30px !important;
+}
+
+
+.line {
+  height: 264px !important;
+}
+
+.srnext {
+  top: -41px !important;
+}
+
+#service .slick-center h3 {
+  text-align: center !important;
+  margin-bottom: 20px !important;
+}
+
+#service .slick-center .service_image {
+  margin-bottom: 20px !important;
+}
+
+.srprev {
+  bottom: -66px !important;
+}
+
+#service .slick-center .service_text {
+  text-align: center !important;
+}
+  .service_header {
+    padding-bottom: 94px !important;
+  }
+  #service {
+    padding: 20px 0 63px 0 !important;
+  }
+  .line {
+    display: none !important;
+  }
+
+  #team {
+    clip-path: polygon(0px 2%, 100% 0px, 100% 98%, 0% 100%) !important;
+  }
+  
+
+.tnext {
+    display: none !important;
+  }
+  
+  
+  .line2 {
+    width: 0 !important;
+  }
+  
+  #team {
+    padding: 0px 0 !important;
+  }
+  
+  .team_main {
+    padding: 30px 0 !important;
+  }
+  
+  .team_text {
+    padding: 30px 30px 100px 30px !important;
+  }
+  
+  #team .team_texts p {
+    font-size: 12px !important;
+  }
+  
+  #team .team_texts h4 {
+    font-size: 14px !important;
+    padding-bottom: 10px !important;
+  }
+  
+  #team h3 {
+    font-size: 18px !important;
+  }
+  .tnext {
+    display: block !important;
+  }
+
+
+.tnext {
+  left: -41px !important;
+  top: 50% !important;
+  rotate: -90deg;
+}
+.tprev {
+  right: -41px !important;
+  top: 50% !important;
+  rotate:-90deg;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
+.price_header h2 {
+  font-size: 30px !important;
+}
+
+.price_header p {
+  font-size: 13px !important;
+}
+
+.price_item {
+  margin-bottom: 20px !important;
+}
+
+#client {
+  clip-path: polygon(2px 7.36%, 100% 0px, 100% 78%, 0.31% 89.46%) !important;
+  padding: 33px 0 79px !important;
+}
+
+.client_item {
+  margin-bottom: 20px !important;
+}
+
+.client_item h3 {
+  font-size: 17px !important;
+}
+
+.team_header h2 {
+  font-size: 30px !important;
+}
+
+.team_header p {
+  font-size: 13px !important;
+}
+
+.teams_main {
+  margin-bottom: 75px !important;
+}
+
+#brand {
+  padding: 61px 0 !important;
+  clip-path: polygon(0px 23%, 100% 50px, 100% 77%, 0.62% 88%) !important;
+}
+
+#teams {
+  margin-bottom: -51px !important;
+}
+
+.brand_item {
+  padding: 9px 0 !important;
+}
+
+footer {
+  clip-path: polygon(0px 7.68%, 100% 4%, 100% 100%, 0% 100%) !important;
+}
+
+.follow h3 {
+  padding-bottom: 10px !important;
+}
+
+
+i.fa-chevron-down:nth-child(2) {
+  right: 20px !important;
+  right: -35px !important;
+}
+
+
+#price {
+  padding: 20px 0 !important;
+}
+
+
+#footer > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+  border-color: transparent !important;
+}
+.footer_item p {
+	font-size: 14px !important;
+}
+
+
+
+.client_item {
+  padding: -6px 0 !important;
+}
+
+.client_item {
+  rotate: 0deg !important;
+}
+
+.client_main {
+  rotate: -1deg !important;
+}
+
+.client_item span {
+  font-size: 22px !important;
+}
+
+.client_text {
+  rotate: 0deg !important;
+  padding: 10px 0 !important;
+}
+
+
+  .client_item h3 {
+    font-size: 7px !important;
+  }
+  #client {
+    padding: 33px 0 50px !important;
+  }
+  .client_item {
+    margin-bottom: 0px !important;
+  }
+
+  .client_item {
+    padding: 10px 0 !important;
+    border: 1px solid #ffffff !important;
+  } 
+  #client {
+    clip-path: polygon(0px 7.36%, 100% 0px, 100% 78%, 0.31% 89.46%) !important;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  
+  .about_image{
+   width: 200px !important;
+   height: 200px !important;
+}
+.about_image img{
+  width: 100%;
+}
+
+
+#about h3 {
+  font-size: 16px !important;
+}
+
+#about p {
+  font-size: 13px !important;
+}
+
+.about_top {
+  margin-bottom: 33px !important;
+}
+
+.about_top, .about_left, .about_right, .about_bottom {
+  padding: 28px 10px !important;
+}
+
+.about_right_sape {
+  width: 20px !important;
+  height: 20px !important;
+  left: -10px !important;
+}
+
+.about_left_sape {
+  width: 20px !important;
+  height: 20px !important;
+  right: -10px !important;
+}
+
+.about_bottom_sape {
+  top: -10px !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.about_top_sape {
+  width: 20px !important;
+  height: 20px !important;
+  bottom: -10px !important;
+}
+
+.about_bottom::after {
+  display: none !important;
+}
+
+.about_top::after {
+  display: none !important;
+}
+
+.about_right::after {
+  display: none !important;
+}
+
+.about_left::after {
+  display: none !important;
+}
+
+
+#service p {
+  font-size: 12px !important;
+}
+
+.service_text {
+  padding: 25px 20px !important;
+}
+
+.line {
+  height: 458px !important;
+}
+#team {
+  clip-path: polygon(0px 2.04%, 100% 0px, 100% 98%, 0% 100%) !important;
+}
+
+
+.tnext {
+  left: 77px !important;
+}
+.tprev {
+  left: 77px !important;
+}
+
+.line2 {
+  left: 91px !important;
+}
+.team_text {
+	padding: 30px !important;
+}
+#price{
+  padding: 40px 0;
+}
+.team_icons a {
+  width: 20px !important;
+  height: 20px !important;
+  line-height: 20px !important;
+  font-size: 10px !important;
+}
+.brand_item {
+  padding: 20px 0 !important;
+}
+
+
+
+footer {
+  clip-path: polygon(0px 6.80%, 100% 0px, 100% 100%, 0% 100%) !important;
+}
+
+
+.footer_item p {
+  font-size: 9px !important;
+}
+
+.follow h3 {
+  font-size: 20px !important;
+  padding-bottom: 10px !important;
+}
+ }
+
+
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+
+.client_item h3 {
+  font-size: 15px !important;
+}
+
+.footer_item p {
+  font-size: 13px !important;
+}
+
+.follow h3 {
+  font-size: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+.line2 {
+  left: 81px !important;
+}
+
+.tnext {
+  left: 66px !important;
+}
+
+.tprev {
+  left: 68px !important;
+}
+.about_image {
+	width: 220px !important;
+	height: 220px !important;
+}
+.about_image img{
+  width: 100%;
+}
+
+.about_bottom::after {
+  display: none !important;
+}
+
+.about_right::after {
+  display: none !important;
+}
+
+.about_top::after {
+  display: none !important;
+}
+
+.about_left::after {
+  display: none !important;
+}
+
+  }
+
+  @media (min-width: 1200px) and (max-width: 1399.98px) {  
+.client_item h3 {
+  font-size: 15px !important;
+}
+
+.footer_item p {
+  font-size: 13px !important;
+}
+
+.follow h3 {
+  font-size: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+.line2 {
+  left: 81px !important;
+}
+
+.tnext {
+  left: 66px !important;
+}
+
+.tprev {
+  left: 68px !important;
+}
+.about_image {
+  width: 261px !important;
+}
+.about_bottom::after {
+  display: none !important;
+}
+
+.about_right::after {
+  display: none !important;
+}
+
+.about_top::after {
+  display: none !important;
+}
+
+.about_left::after {
+  display: none !important;
+}
+.line {
+  height: 790px !important;
+}
+.about_image {
+	width: 250px !important;
+	height: 250px !important;
+}
+.about_image img{
+  width: 100%;
+}
+
+   }
+
+   @media (min-width: 1400px) { 
+    .line {
+      height: 729px !important;
+    }
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
